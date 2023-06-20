@@ -1,80 +1,48 @@
 {
-  "clientes": [
+  "responsaveis": [
     {
       "id": 1,
-      "nome": "João da Silva",
-      "telefone": "123456789",
-      "endereco": "Rua dos Animais, 123"
-    },
+      "nome": "",
+      "sobrenome": "",
+      "telefone": "",
+      "email": "",
+      "senha": ""
+      
+    }
+
+  ],
+  "criancas": [
     {
-      "id": 2,
-      "nome": "Maria Souza",
-      "telefone": "987654321",
-      "endereco": "Avenida dos Pets, 456"
+      "id": 1,
+      "nome": "",
+      "cpf": "",
+      "telefone": "",
+      "data_nascimento": "",
+      "nome_escola": "",
+      "endereco_escola": "",
+      "responsaveis_id": 1
     }
   ],
-  "animais": [
+  "motoristas": [
     {
       "id": 1,
-      "nome": "Rex",
-      "especie": "Cachorro",
-      "raca": "Labrador",
-      "idade": 3,
-      "cliente_id": 1
-    },
-    {
-      "id": 2,
-      "nome": "Mimi",
-      "especie": "Gato",
-      "raca": "Siamês",
-      "idade": 2,
-      "cliente_id": 1
-    },
-    {
-      "id": 3,
-      "nome": "Lola",
-      "especie": "Cachorro",
-      "raca": "Poodle",
-      "idade": 5,
-      "cliente_id": 2
-    },
-    {
-      "id": 4,
-      "nome": "Nina",
-      "especie": "Gato",
-      "raca": "Persa",
-      "idade": 1,
-      "cliente_id": 2
+      "nome": "",
+      "sobrenome": "",
+      "telefone": "",
+      "email": "",
+      "senha": ""
     }
   ],
-  "produtos": [
+  "veiculos": [
     {
       "id": 1,
-      "nome": "Ração para cães",
-      "marca": "Premier",
-      "preco": 50.99,
-      "quantidade_estoque": 100
-    },
-    {
-      "id": 2,
-      "nome": "Areia sanitária para gatos",
-      "marca": "Chalesco",
-      "preco": 25.99,
-      "quantidade_estoque": 50
-    }
-  ],
-  "servicos": [
-    {
-      "id": 1,
-      "nome": "Banho e tosa",
-      "preco": 80.0,
-      "duracao_minutos": 120
-    },
-    {
-      "id": 2,
-      "nome": "Consulta veterinária",
-      "preco": 120.0,
-      "duracao_minutos": 60
+      "modelo": "",
+      "marca": "",
+      "placa": "",
+      "ano": "",
+      "renavam": "",
+      "chassi": "",
+      "motoristas_id": 1
     }
   ]
 }
