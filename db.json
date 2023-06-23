@@ -44,5 +44,12 @@
       "chassi": "56af1sa32fg1agas1g56as16",
       "motoristasid": 1
     }
+  ],
+    "rotas": [
+    {
+      "id": 1,
+      "Escola": "",
+      "motoristasid": 1
+    }
   ]
 }
