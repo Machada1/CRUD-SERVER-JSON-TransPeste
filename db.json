@@ -30,7 +30,11 @@
       "sobrenome": "",
       "telefone": "",
       "email": "",
-      "senha": ""
+      "senha": "",
+      "cnh": "",
+      "crv": "",
+      "placa": "",
+      "autorizacao": ""
     }
   ],
   "veiculos": [
