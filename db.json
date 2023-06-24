@@ -48,7 +48,7 @@
     "rotas": [
     {
       "id": 1,
-      "Escola": "",
+      "escola": "CEFET",
       "motoristasid": 1
     }
   ]
