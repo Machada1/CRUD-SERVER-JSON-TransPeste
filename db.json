@@ -16,6 +16,7 @@
       "email": "teste2@teste.com",
       "senha": "123456ab"
     }
+
   ],
   "criancas": [
     {
@@ -37,6 +38,14 @@
       "telefone": "31999999999",
       "email": "van@teste.com",
       "senha": "123456ab"
+    },
+    {
+      "id": 2,
+      "nome": "Julhinho",
+      "sobrenome": "da Van",
+      "telefone": "31999999999",
+      "email": "van2@teste.com",
+      "senha": "123456ab"
     }
   ],
   "veiculos": [
@@ -56,6 +65,11 @@
       "id": 1,
       "escola": "CEFET",
       "motoristasid": 1
+    },
+    {
+      "id": 2,
+      "escola": "CEFET",
+      "motoristasid": 2
     }
   ]
 }
