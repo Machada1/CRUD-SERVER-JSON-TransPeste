@@ -25,9 +25,19 @@
       "cpf": "11111111111",
       "telefone": "31999999999",
       "data_nascimento": "29/09/20014",
-      "nome_escola": "Santo Agostinho",
+      "nome_escola": "CEFET",
       "endereco_escola": "Rua do Santo Agostinho",
       "responsaveisid": 1
+    },
+    {
+      "id": 2,
+      "nome": "Fabinho",
+      "cpf": "11111111111",
+      "telefone": "31999999999",
+      "data_nascimento": "29/09/20014",
+      "nome_escola": "Santo Agostinho",
+      "endereco_escola": "Rua do Santo Agostinho",
+      "responsaveisid": 2
     }
   ],
   "motoristas": [
@@ -71,5 +81,15 @@
       "escola": "CEFET",
       "motoristasid": 2
     }
+  ],
+  "solicitacao": [
+    {
+      "id": 1,
+      "escola": "CEFET",
+      "solicitante":"Klebão",
+      "partida":"Rua dos bobos, nº0"
+    }
+
   ]
+  
 }
