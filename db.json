@@ -113,6 +113,11 @@
       "id": 2,
       "escola": "CEFET",
       "motoristasid": 2
+    },
+    {
+      "id": 3,
+      "escola": "Santo Agostinho",
+      "motoristasid": 3
     }
   ],
   "solicitacao": [
