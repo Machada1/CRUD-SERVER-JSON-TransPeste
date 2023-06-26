@@ -74,6 +74,20 @@
       "telefone": "31999999999",
       "email": "van2@teste.com",
       "senha": "123456ab"
+    },
+
+    {
+      "id": 3,
+      "nome": "Renanzinho",
+      "sobrenome": "da Van",   
+      "cpf": "11122233348",
+      "endereco": "Rua dos testes",
+      "nascimento": "29/09/1985",
+      "cnh":"111222333756",
+      "cnhvenc":"29/11/2024",
+      "telefone": "31999999999",
+      "email": "van3@teste.com",
+      "senha": "123456ab"
     }
   ],
   "veiculos": [
